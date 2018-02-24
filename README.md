@@ -4,3 +4,10 @@
 
 누구든지 포크하시거나 클론하셔서 사용하셔도됩니다(사실 R예제 수준이라서..)
 물론 라이센스는 지켜주시길바래요!
+
+# Preview
+워드클라우드형식
+![screenshot_20171221-151714](https://github.com/dev-ciel/0xd_KakaoTalk/blob/master/Rplot.png)
+
+그래프형식
+![screenshot_20171221-151714](https://github.com/dev-ciel/0xd_KakaoTalk/blob/master/Rplot02.png)
